@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部毘奈耶頌
+#+DATE: 2015-08-30 20:42:47.379545
+#+PROPERTY: JUAN 0
